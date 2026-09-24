@@ -1,0 +1,29 @@
+{
+  "downloaded_at_utc": "2026-09-24T17:21:27+00:00",
+  "files": [
+    {
+      "file": "owid-co2-data.csv",
+      "url": "https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv",
+      "bytes": 14377942,
+      "sha256": "7f78e2b218ce4bb8c538bbec04fdc9a7982e8d40bff972e650df603899edd5f6"
+    },
+    {
+      "file": "owid-co2-codebook.csv",
+      "url": "https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-codebook.csv",
+      "bytes": 24149,
+      "sha256": "33b4f5e00efd58c7b83863f736beba1af4df946b43642b0400c3ec38648e0e8e"
+    },
+    {
+      "file": "owid-energy-data.csv",
+      "url": "https://raw.githubusercontent.com/owid/energy-data/master/owid-energy-data.csv",
+      "bytes": 9229369,
+      "sha256": "266f2e2baad7975351bc9bb4aa061d22b1da9fe4c47d51d2ac6071e01e171f76"
+    },
+    {
+      "file": "owid-energy-codebook.csv",
+      "url": "https://raw.githubusercontent.com/owid/energy-data/master/owid-energy-codebook.csv",
+      "bytes": 45793,
+      "sha256": "3cc9b7db0d921496e2988568ce3aee5ed41f50431dd234a0663b5f0a4b2e32bb"
+    }
+  ]
+}
