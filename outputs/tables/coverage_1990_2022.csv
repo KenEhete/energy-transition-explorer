@@ -1,0 +1,219 @@
+country,population,gdp,co2,primary_energy_consumption,consumption_co2,complete_core
+Afghanistan,1.0,1.0,1.0,1.0,0.0,True
+Albania,1.0,1.0,1.0,1.0,1.0,True
+Algeria,1.0,1.0,1.0,1.0,0.0,True
+Andorra,1.0,0.0,1.0,0.0,0.0,False
+Angola,1.0,1.0,1.0,1.0,0.0,True
+Anguilla,1.0,0.0,1.0,0.0,0.0,False
+Antarctica,0.0,0.0,1.0,1.0,0.0,False
+Antigua and Barbuda,1.0,0.0,1.0,1.0,0.0,False
+Argentina,1.0,1.0,1.0,1.0,1.0,True
+Armenia,1.0,1.0,1.0,0.939,1.0,False
+Aruba,1.0,0.0,1.0,1.0,0.0,False
+Australia,1.0,1.0,1.0,1.0,1.0,True
+Austria,1.0,1.0,1.0,1.0,1.0,True
+Azerbaijan,1.0,1.0,1.0,1.0,1.0,True
+Bahamas,1.0,0.0,1.0,1.0,0.0,False
+Bahrain,1.0,1.0,1.0,1.0,1.0,True
+Bangladesh,1.0,1.0,1.0,1.0,1.0,True
+Barbados,1.0,1.0,1.0,1.0,0.0,True
+Belarus,1.0,1.0,1.0,1.0,1.0,True
+Belgium,1.0,1.0,1.0,1.0,1.0,True
+Belize,1.0,0.0,1.0,1.0,0.0,False
+Benin,1.0,1.0,1.0,1.0,1.0,True
+Bermuda,1.0,0.0,1.0,1.0,0.0,False
+Bhutan,1.0,0.0,1.0,1.0,0.0,False
+Bolivia,1.0,1.0,1.0,1.0,1.0,True
+Bonaire Sint Eustatius and Saba,1.0,0.0,1.0,0.0,0.0,False
+Bosnia and Herzegovina,1.0,1.0,1.0,0.939,0.0,False
+Botswana,1.0,1.0,1.0,1.0,1.0,True
+Brazil,1.0,1.0,1.0,1.0,1.0,True
+British Virgin Islands,1.0,0.0,1.0,1.0,0.0,False
+Brunei,1.0,0.0,1.0,1.0,1.0,False
+Bulgaria,1.0,1.0,1.0,1.0,1.0,True
+Burkina Faso,1.0,1.0,1.0,1.0,1.0,True
+Burundi,1.0,1.0,1.0,1.0,0.0,True
+Cambodia,1.0,1.0,1.0,1.0,1.0,True
+Cameroon,1.0,1.0,1.0,1.0,1.0,True
+Canada,1.0,1.0,1.0,1.0,1.0,True
+Cape Verde,1.0,1.0,1.0,1.0,0.0,True
+Central African Republic,1.0,1.0,1.0,1.0,0.0,True
+Chad,1.0,1.0,1.0,1.0,0.0,True
+Chile,1.0,1.0,1.0,1.0,1.0,True
+China,1.0,1.0,1.0,1.0,1.0,True
+Christmas Island,0.0,0.0,0.879,0.0,0.0,False
+Colombia,1.0,1.0,1.0,1.0,1.0,True
+Comoros,1.0,1.0,1.0,1.0,0.0,True
+Congo,1.0,1.0,1.0,1.0,0.0,True
+Cook Islands,1.0,0.0,1.0,1.0,0.0,False
+Costa Rica,1.0,1.0,1.0,1.0,1.0,True
+Cote d'Ivoire,1.0,1.0,1.0,1.0,1.0,True
+Croatia,1.0,1.0,1.0,1.0,1.0,True
+Cuba,1.0,1.0,1.0,1.0,0.0,True
+Curacao,1.0,0.0,1.0,0.0,0.0,False
+Cyprus,1.0,1.0,1.0,1.0,1.0,True
+Czechia,1.0,1.0,1.0,1.0,1.0,True
+Democratic Republic of Congo,1.0,1.0,1.0,1.0,0.0,True
+Denmark,1.0,1.0,1.0,1.0,1.0,True
+Djibouti,1.0,1.0,1.0,1.0,0.0,True
+Dominica,1.0,1.0,1.0,1.0,0.0,True
+Dominican Republic,1.0,1.0,1.0,1.0,1.0,True
+East Timor,1.0,0.0,0.879,0.606,0.0,False
+Ecuador,1.0,1.0,1.0,1.0,1.0,True
+Egypt,1.0,1.0,1.0,1.0,1.0,True
+El Salvador,1.0,1.0,1.0,1.0,1.0,True
+Equatorial Guinea,1.0,1.0,1.0,1.0,0.0,True
+Eritrea,1.0,0.0,0.879,0.879,0.0,False
+Estonia,1.0,1.0,1.0,1.0,1.0,True
+Eswatini,1.0,1.0,1.0,1.0,0.0,True
+Ethiopia,1.0,1.0,1.0,1.0,1.0,True
+Faroe Islands,1.0,0.0,1.0,1.0,0.0,False
+Fiji,1.0,0.0,1.0,1.0,0.0,False
+Finland,1.0,1.0,1.0,1.0,1.0,True
+France,1.0,1.0,1.0,1.0,1.0,True
+French Polynesia,1.0,0.0,1.0,1.0,0.0,False
+Gabon,1.0,1.0,1.0,1.0,0.0,True
+Gambia,1.0,1.0,1.0,1.0,0.0,True
+Georgia,1.0,1.0,1.0,0.939,1.0,False
+Germany,1.0,1.0,1.0,1.0,1.0,True
+Ghana,1.0,1.0,1.0,1.0,1.0,True
+Greece,1.0,1.0,1.0,1.0,1.0,True
+Greenland,1.0,0.0,1.0,1.0,0.0,False
+Grenada,1.0,0.0,1.0,1.0,0.0,False
+Guatemala,1.0,1.0,1.0,1.0,1.0,True
+Guinea,1.0,1.0,1.0,1.0,1.0,True
+Guinea-Bissau,1.0,1.0,1.0,1.0,0.0,True
+Guyana,1.0,0.0,1.0,1.0,0.0,False
+Haiti,1.0,1.0,1.0,1.0,0.0,True
+Honduras,1.0,1.0,1.0,1.0,1.0,True
+Hong Kong,1.0,1.0,1.0,1.0,1.0,True
+Hungary,1.0,1.0,1.0,1.0,1.0,True
+Iceland,1.0,1.0,1.0,1.0,0.0,True
+India,1.0,1.0,1.0,1.0,1.0,True
+Indonesia,1.0,1.0,1.0,1.0,1.0,True
+Iran,1.0,1.0,1.0,1.0,1.0,True
+Iraq,1.0,1.0,1.0,1.0,0.0,True
+Ireland,1.0,1.0,1.0,1.0,1.0,True
+Israel,1.0,1.0,1.0,1.0,1.0,True
+Italy,1.0,1.0,1.0,1.0,1.0,True
+Jamaica,1.0,1.0,1.0,1.0,1.0,True
+Japan,1.0,1.0,1.0,1.0,1.0,True
+Jordan,1.0,1.0,1.0,1.0,1.0,True
+Kazakhstan,1.0,1.0,1.0,1.0,1.0,True
+Kenya,1.0,1.0,1.0,1.0,1.0,True
+Kiribati,1.0,0.0,1.0,1.0,0.0,False
+Kuwait,1.0,1.0,1.0,1.0,1.0,True
+Kyrgyzstan,1.0,1.0,1.0,0.939,1.0,False
+Laos,1.0,1.0,1.0,1.0,1.0,True
+Latvia,1.0,1.0,1.0,1.0,1.0,True
+Lebanon,1.0,1.0,1.0,1.0,0.0,True
+Lesotho,1.0,1.0,1.0,1.0,0.0,True
+Liberia,1.0,1.0,1.0,1.0,0.0,True
+Libya,1.0,1.0,1.0,1.0,0.0,True
+Liechtenstein,1.0,0.0,1.0,0.0,0.0,False
+Lithuania,1.0,1.0,1.0,1.0,1.0,True
+Luxembourg,1.0,1.0,1.0,1.0,1.0,True
+Macao,1.0,0.0,1.0,1.0,0.0,False
+Madagascar,1.0,1.0,1.0,1.0,1.0,True
+Malawi,1.0,1.0,1.0,1.0,1.0,True
+Malaysia,1.0,1.0,1.0,1.0,1.0,True
+Maldives,1.0,0.0,1.0,1.0,0.0,False
+Mali,1.0,1.0,1.0,1.0,0.0,True
+Malta,1.0,1.0,1.0,1.0,1.0,True
+Marshall Islands,1.0,0.0,0.939,0.0,0.0,False
+Mauritania,1.0,1.0,1.0,1.0,0.0,True
+Mauritius,1.0,1.0,1.0,1.0,1.0,True
+Mexico,1.0,1.0,1.0,1.0,1.0,True
+Micronesia (country),1.0,0.0,0.939,1.0,0.0,False
+Moldova,1.0,1.0,1.0,0.939,0.0,False
+Monaco,1.0,0.0,0.0,0.0,0.0,False
+Mongolia,1.0,1.0,1.0,1.0,1.0,True
+Montenegro,1.0,1.0,1.0,0.515,0.0,False
+Montserrat,1.0,0.0,1.0,1.0,0.0,False
+Morocco,1.0,1.0,1.0,1.0,1.0,True
+Mozambique,1.0,1.0,1.0,1.0,1.0,True
+Myanmar,1.0,1.0,1.0,1.0,0.0,True
+Namibia,1.0,1.0,0.97,1.0,1.0,False
+Nauru,1.0,0.0,1.0,1.0,0.0,False
+Nepal,1.0,1.0,1.0,1.0,1.0,True
+Netherlands,1.0,1.0,1.0,1.0,1.0,True
+New Caledonia,1.0,0.0,1.0,1.0,0.0,False
+New Zealand,1.0,1.0,1.0,1.0,1.0,True
+Nicaragua,1.0,1.0,1.0,1.0,1.0,True
+Niger,1.0,1.0,1.0,1.0,0.0,True
+Nigeria,1.0,1.0,1.0,1.0,1.0,True
+Niue,1.0,0.0,1.0,1.0,0.0,False
+North Korea,1.0,1.0,1.0,1.0,0.0,True
+North Macedonia,1.0,1.0,1.0,1.0,0.0,True
+Norway,1.0,1.0,1.0,1.0,0.606,True
+Oman,1.0,1.0,1.0,1.0,1.0,True
+Pakistan,1.0,1.0,1.0,1.0,1.0,True
+Palau,1.0,0.0,1.0,0.0,0.0,False
+Palestine,1.0,1.0,1.0,0.788,0.0,False
+Panama,1.0,1.0,1.0,1.0,0.909,True
+Papua New Guinea,1.0,0.0,1.0,1.0,0.0,False
+Paraguay,1.0,1.0,1.0,1.0,1.0,True
+Peru,1.0,1.0,1.0,1.0,1.0,True
+Philippines,1.0,1.0,1.0,1.0,1.0,True
+Poland,1.0,1.0,1.0,1.0,1.0,True
+Portugal,1.0,1.0,1.0,1.0,1.0,True
+Qatar,1.0,1.0,1.0,1.0,1.0,True
+Romania,1.0,1.0,1.0,1.0,1.0,True
+Russia,1.0,1.0,1.0,1.0,1.0,True
+Rwanda,1.0,1.0,1.0,1.0,1.0,True
+Saint Helena,1.0,0.0,1.0,1.0,0.0,False
+Saint Kitts and Nevis,1.0,0.0,1.0,1.0,0.0,False
+Saint Lucia,1.0,1.0,1.0,1.0,0.0,True
+Saint Pierre and Miquelon,1.0,0.0,1.0,1.0,0.0,False
+Saint Vincent and the Grenadines,1.0,0.0,1.0,1.0,0.0,False
+Samoa,1.0,0.0,1.0,1.0,0.0,False
+San Marino,1.0,0.0,0.0,0.0,0.0,False
+Sao Tome and Principe,1.0,1.0,1.0,1.0,0.0,True
+Saudi Arabia,1.0,1.0,1.0,1.0,1.0,True
+Senegal,1.0,1.0,1.0,1.0,1.0,True
+Serbia,1.0,1.0,1.0,0.515,0.0,False
+Seychelles,1.0,1.0,1.0,1.0,0.0,True
+Sierra Leone,1.0,1.0,1.0,1.0,0.0,True
+Singapore,1.0,1.0,1.0,1.0,1.0,True
+Sint Maarten (Dutch part),1.0,0.0,1.0,0.0,0.0,False
+Slovakia,1.0,1.0,1.0,1.0,1.0,True
+Slovenia,1.0,1.0,1.0,1.0,1.0,True
+Solomon Islands,1.0,0.0,1.0,1.0,0.0,False
+Somalia,1.0,0.0,1.0,1.0,0.0,False
+South Africa,1.0,1.0,1.0,1.0,1.0,True
+South Korea,1.0,1.0,1.0,1.0,1.0,True
+South Sudan,1.0,0.0,1.0,0.333,0.0,False
+Spain,1.0,1.0,1.0,1.0,1.0,True
+Sri Lanka,1.0,1.0,1.0,1.0,1.0,True
+Sudan,1.0,0.0,1.0,1.0,0.0,False
+Suriname,1.0,0.0,1.0,1.0,0.0,False
+Sweden,1.0,1.0,1.0,1.0,1.0,True
+Switzerland,1.0,1.0,1.0,1.0,1.0,True
+Syria,1.0,1.0,1.0,1.0,0.0,True
+Taiwan,1.0,1.0,1.0,1.0,1.0,True
+Tajikistan,1.0,1.0,1.0,0.939,1.0,False
+Tanzania,1.0,1.0,1.0,1.0,1.0,True
+Thailand,1.0,1.0,1.0,1.0,1.0,True
+Togo,1.0,1.0,1.0,1.0,1.0,True
+Tonga,1.0,0.0,1.0,1.0,0.0,False
+Trinidad and Tobago,1.0,1.0,1.0,1.0,1.0,True
+Tunisia,1.0,1.0,1.0,1.0,1.0,True
+Turkey,1.0,1.0,1.0,1.0,1.0,True
+Turkmenistan,1.0,1.0,1.0,1.0,0.0,True
+Turks and Caicos Islands,1.0,0.0,1.0,1.0,0.0,False
+Tuvalu,1.0,0.0,1.0,1.0,0.0,False
+Uganda,1.0,1.0,1.0,1.0,1.0,True
+Ukraine,1.0,1.0,1.0,1.0,1.0,True
+United Arab Emirates,1.0,0.939,1.0,1.0,1.0,False
+United Kingdom,1.0,1.0,1.0,1.0,1.0,True
+United States,1.0,1.0,1.0,1.0,1.0,True
+Uruguay,1.0,1.0,1.0,1.0,1.0,True
+Uzbekistan,1.0,1.0,1.0,1.0,0.0,True
+Vanuatu,1.0,0.0,1.0,1.0,0.0,False
+Vatican,1.0,0.0,0.0,0.0,0.0,False
+Venezuela,1.0,1.0,1.0,1.0,1.0,True
+Vietnam,1.0,1.0,1.0,1.0,1.0,True
+Wallis and Futuna,1.0,0.0,1.0,0.0,0.0,False
+Yemen,1.0,1.0,1.0,1.0,0.0,True
+Zambia,1.0,1.0,1.0,1.0,1.0,True
+Zimbabwe,1.0,1.0,1.0,1.0,1.0,True
