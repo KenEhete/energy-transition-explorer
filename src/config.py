@@ -58,3 +58,13 @@ ENERGY_COLUMNS = [
 # Columns a country must have for every year in the window
 # to be included in the core analysis.
 CORE_COLUMNS = ["population", "gdp", "co2", "primary_energy_consumption"]
+
+# --- Sample decisions (set in notebooks/02_data_checks.ipynb) ---
+# Countries below this population (in END_YEAR) are left out of the
+# analysis sample. Very small economies swing wildly in percentage
+# terms and would dominate rankings like "fastest to decarbonise".
+MIN_POPULATION = 1_000_000
+
+# Start and end points are averaged over this many years
+# (1990-1992 and 2020-2022) so one unusual year can't drive a result.
+AVG_WINDOW = 3

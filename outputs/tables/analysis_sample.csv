@@ -1,0 +1,144 @@
+country,iso_code,population,has_consumption_co2
+Afghanistan,AFG,40578847.0,False
+Albania,ALB,2827614.0,True
+Algeria,DZA,45477391.0,False
+Angola,AGO,35635028.0,False
+Argentina,ARG,45407904.0,True
+Australia,AUS,26200987.0,True
+Austria,AUT,9064678.0,True
+Azerbaijan,AZE,10295307.0,True
+Bahrain,BHR,1533460.0,True
+Bangladesh,BGD,169384891.0,True
+Belarus,BLR,9173240.0,True
+Belgium,BEL,11641814.0,True
+Benin,BEN,13759507.0,True
+Bolivia,BOL,12077156.0,True
+Botswana,BWA,2439895.0,True
+Brazil,BRA,210306411.0,True
+Bulgaria,BGR,6825862.0,True
+Burkina Faso,BFA,22509038.0,True
+Burundi,BDI,13321102.0,False
+Cambodia,KHM,17201721.0,True
+Cameroon,CMR,27632770.0,True
+Canada,CAN,38821259.0,True
+Central African Republic,CAF,5098038.0,False
+Chad,TCD,18455319.0,False
+Chile,CHL,19553033.0,True
+China,CHN,1425179562.0,True
+Colombia,COL,51737944.0,True
+Congo,COG,6035104.0,False
+Costa Rica,CRI,5081764.0,True
+Cote d'Ivoire,CIV,30395004.0,True
+Croatia,HRV,3907031.0,True
+Cuba,CUB,11059822.0,False
+Cyprus,CYP,1331376.0,True
+Czechia,CZE,10673216.0,True
+Democratic Republic of Congo,COD,102396974.0,False
+Denmark,DNK,5902901.0,True
+Djibouti,DJI,1137101.0,False
+Dominican Republic,DOM,11230734.0,True
+Ecuador,ECU,17823900.0,True
+Egypt,EGY,112618252.0,True
+El Salvador,SLV,6280316.0,True
+Equatorial Guinea,GNQ,1803549.0,False
+Estonia,EST,1350093.0,True
+Eswatini,SWZ,1218921.0,False
+Ethiopia,ETH,125384285.0,True
+Finland,FIN,5569300.0,True
+France,FRA,66277412.0,True
+Gabon,GAB,2430750.0,False
+Gambia,GMB,2636472.0,False
+Germany,DEU,84086227.0,True
+Ghana,GHA,33149152.0,True
+Greece,GRC,10412481.0,True
+Guatemala,GTM,17847877.0,True
+Guinea,GIN,14055136.0,True
+Guinea-Bissau,GNB,2105535.0,False
+Haiti,HTI,11503603.0,False
+Honduras,HND,10463880.0,True
+Hong Kong,HKG,7465913.0,True
+Hungary,HUN,9684308.0,True
+India,IND,1425423209.0,True
+Indonesia,IDN,278830527.0,True
+Iran,IRN,89524247.0,True
+Iraq,IRQ,44070556.0,False
+Ireland,IRL,5110015.0,True
+Israel,ISR,9103143.0,True
+Italy,ITA,59619106.0,True
+Jamaica,JAM,2839150.0,True
+Japan,JPN,124997585.0,True
+Jordan,JOR,11256269.0,True
+Kazakhstan,KAZ,20034612.0,True
+Kenya,KEN,54252458.0,True
+Kuwait,KWT,4589514.0,True
+Laos,LAO,7559008.0,True
+Latvia,LVA,1881059.0,True
+Lebanon,LBN,5744492.0,False
+Lesotho,LSO,2286112.0,False
+Liberia,LBR,5373297.0,False
+Libya,LBY,7223804.0,False
+Lithuania,LTU,2816923.0,True
+Madagascar,MDG,30437261.0,True
+Malawi,MWI,20568731.0,True
+Malaysia,MYS,34695494.0,True
+Mali,MLI,23072641.0,False
+Mauritania,MRT,4875644.0,False
+Mauritius,MUS,1276134.0,True
+Mexico,MEX,128613116.0,True
+Mongolia,MNG,3386015.0,True
+Morocco,MAR,37329068.0,True
+Mozambique,MOZ,32656242.0,True
+Myanmar,MMR,53756791.0,False
+Nepal,NPL,29715435.0,True
+Netherlands,NLD,17904421.0,True
+New Zealand,NZL,5131731.0,True
+Nicaragua,NIC,6730662.0,True
+Niger,NER,25311978.0,False
+Nigeria,NGA,223150906.0,True
+North Korea,PRK,26328843.0,False
+North Macedonia,MKD,1840236.0,False
+Norway,NOR,5456796.0,False
+Oman,OMN,4730229.0,True
+Pakistan,PAK,243700667.0,True
+Panama,PAN,4400775.0,False
+Paraguay,PRY,6760460.0,True
+Peru,PER,33475436.0,True
+Philippines,PHL,113964343.0,True
+Poland,POL,38385734.0,True
+Portugal,PRT,10417074.0,True
+Qatar,QAT,2892466.0,True
+Romania,ROU,19166776.0,True
+Russia,RUS,145579889.0,True
+Rwanda,RWA,13651025.0,True
+Saudi Arabia,SAU,32175351.0,True
+Senegal,SEN,17651099.0,True
+Sierra Leone,SLE,8276809.0,False
+Singapore,SGP,5649888.0,True
+Slovakia,SVK,5473195.0,True
+Slovenia,SVN,2115231.0,True
+South Africa,ZAF,62378417.0,True
+South Korea,KOR,51782515.0,True
+Spain,ESP,47828386.0,True
+Sri Lanka,LKA,22834965.0,True
+Sweden,SWE,10487335.0,True
+Switzerland,CHE,8792180.0,True
+Syria,SYR,22462170.0,False
+Taiwan,TWN,23420107.0,True
+Tanzania,TZA,64711822.0,True
+Thailand,THA,71735321.0,True
+Togo,TGO,8068616.0,True
+Trinidad and Tobago,TTO,1495923.0,True
+Tunisia,TUN,12119338.0,True
+Turkey,TUR,87058469.0,True
+Turkmenistan,TKM,7230197.0,False
+Uganda,UGA,47312718.0,True
+Ukraine,UKR,41048768.0,True
+United Kingdom,GBR,68179315.0,True
+United States,USA,341534041.0,True
+Uruguay,URY,3390913.0,True
+Uzbekistan,UZB,34938953.0,False
+Venezuela,VEN,28213015.0,True
+Vietnam,VNM,99680656.0,True
+Yemen,YEM,38222878.0,False
+Zambia,ZMB,20152935.0,True
+Zimbabwe,ZWE,16069061.0,True
