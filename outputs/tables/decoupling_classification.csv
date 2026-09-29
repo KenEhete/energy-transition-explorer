@@ -1,0 +1,144 @@
+country,gdp_growth_pct,co2_growth_pct,decoupling,income_group,early_decoupling,recent_decoupling
+Afghanistan,379.9,474.9,None,Lowest,Absolute,None
+Albania,232.1,17.6,Relative,Lower-middle,Relative,Relative
+Algeria,372.7,134.2,Relative,Upper-middle,Relative,None
+Angola,1184.0,271.2,Relative,Lower-middle,Relative,Relative
+Argentina,112.4,53.3,Relative,Upper-middle,Relative,Relative
+Australia,175.9,39.1,Relative,Highest,Relative,Absolute
+Austria,76.9,0.6,Relative,Highest,Relative,Absolute
+Azerbaijan,237.9,-26.6,Absolute,Upper-middle,Absolute,Relative
+Bahrain,1421.3,235.7,Relative,Highest,Relative,Relative
+Bangladesh,585.8,570.2,Relative,Lower-middle,None,Relative
+Belarus,62.4,-42.2,Absolute,Upper-middle,Absolute,Absolute
+Belgium,69.1,-24.9,Absolute,Highest,Relative,Absolute
+Benin,248.2,832.6,None,Lowest,None,Relative
+Bolivia,212.5,101.5,Relative,Lower-middle,Relative,Relative
+Botswana,403.8,149.9,Relative,Upper-middle,Relative,Relative
+Brazil,155.1,109.0,Relative,Upper-middle,Relative,Relative
+Bulgaria,80.1,-35.6,Absolute,Upper-middle,Absolute,Absolute
+Burkina Faso,221.1,890.8,None,Lowest,None,None
+Burundi,42.9,260.3,None,Lowest,GDP fell,None
+Cambodia,353.0,1501.0,None,Lowest,Relative,None
+Cameroon,255.1,266.2,None,Lowest,None,Relative
+Canada,104.6,17.4,Relative,Highest,Relative,Absolute
+Central African Republic,17.7,89.4,None,Lowest,Absolute,GDP fell
+Chad,463.9,570.0,None,Lowest,Relative,None
+Chile,191.8,160.5,Relative,Upper-middle,None,Relative
+China,625.9,332.6,Relative,Upper-middle,Relative,Relative
+Colombia,162.4,63.3,Relative,Upper-middle,Absolute,Relative
+Congo,156.4,604.1,None,Lower-middle,None,None
+Costa Rica,218.9,126.0,Relative,Upper-middle,None,Relative
+Cote d'Ivoire,324.7,203.0,Relative,Lower-middle,Relative,Relative
+Croatia,92.9,-7.8,Absolute,Upper-middle,Relative,Absolute
+Cuba,92.4,-13.3,Absolute,Lower-middle,Absolute,Absolute
+Cyprus,191.1,36.8,Relative,Upper-middle,Relative,Absolute
+Czechia,145.2,-38.3,Absolute,Highest,Absolute,Absolute
+Democratic Republic of Congo,189.5,42.2,Relative,Lowest,GDP fell,Relative
+Denmark,86.2,-50.5,Absolute,Highest,Absolute,Absolute
+Djibouti,185.1,74.4,Relative,Lowest,None,Relative
+Dominican Republic,514.1,200.8,Relative,Upper-middle,Relative,Relative
+Ecuador,150.2,106.1,Relative,Lower-middle,None,Relative
+Egypt,476.3,239.5,Relative,Upper-middle,Relative,Relative
+El Salvador,205.9,135.4,Relative,Lower-middle,None,Relative
+Equatorial Guinea,1953.1,10711.9,None,Lower-middle,None,GDP fell
+Estonia,65.8,-66.9,Absolute,Highest,Absolute,Absolute
+Eswatini,165.2,12.8,Relative,Lower-middle,Relative,Absolute
+Ethiopia,513.0,481.0,Relative,Lowest,None,Relative
+Finland,73.3,-32.8,Absolute,Highest,Relative,Absolute
+France,55.2,-27.7,Absolute,Highest,Relative,Absolute
+Gabon,357.3,21.8,Relative,Upper-middle,Relative,Relative
+Gambia,220.9,275.9,None,Lowest,Relative,None
+Germany,80.7,-34.5,Absolute,Highest,Absolute,Absolute
+Ghana,409.3,467.3,None,Lower-middle,Relative,None
+Greece,48.7,-32.2,Absolute,Upper-middle,Relative,GDP fell
+Guatemala,189.2,268.7,None,Lower-middle,None,Relative
+Guinea,337.5,322.4,Relative,Lowest,Relative,None
+Guinea-Bissau,139.4,249.5,None,Lowest,Absolute,None
+Haiti,64.1,237.7,None,Lowest,None,None
+Honduras,213.3,318.4,None,Lower-middle,None,Relative
+Hong Kong,114.7,10.6,Relative,Highest,Relative,Absolute
+Hungary,173.5,-31.5,Absolute,Highest,Absolute,Absolute
+India,444.1,328.9,Relative,Lower-middle,Relative,Relative
+Indonesia,327.3,280.7,Relative,Lower-middle,None,Relative
+Iran,305.8,246.1,Relative,Upper-middle,Relative,None
+Iraq,994.9,278.0,Relative,Lower-middle,Relative,Relative
+Ireland,324.2,9.1,Relative,Highest,Relative,Absolute
+Israel,220.8,58.3,Relative,Highest,Relative,Absolute
+Italy,35.5,-25.5,Absolute,Highest,Relative,GDP fell
+Jamaica,31.3,-3.9,Absolute,Lower-middle,None,GDP fell
+Japan,24.1,-10.6,Absolute,Highest,Relative,Absolute
+Jordan,339.4,96.0,Relative,Lower-middle,Relative,Relative
+Kazakhstan,172.7,5.2,Relative,Upper-middle,Absolute,Relative
+Kenya,322.7,279.7,Relative,Lowest,Relative,None
+Kuwait,1275.9,-47.6,Absolute,Highest,Absolute,Relative
+Laos,702.2,3694.2,None,Lower-middle,Relative,None
+Latvia,45.1,-59.8,Absolute,Upper-middle,Absolute,Absolute
+Lebanon,289.1,127.7,Relative,Lower-middle,Relative,None
+Lesotho,44.0,66.4,None,Lowest,None,None
+Liberia,42.4,98.2,None,Lowest,GDP fell,Relative
+Libya,284.2,30.3,Relative,Upper-middle,Relative,GDP fell
+Lithuania,81.4,-57.6,Absolute,Highest,Absolute,Absolute
+Madagascar,158.4,312.0,None,Lowest,None,None
+Malawi,207.1,131.5,Relative,Lowest,Relative,None
+Malaysia,420.7,323.5,Relative,Upper-middle,None,Relative
+Mali,196.4,1482.2,None,Lowest,None,None
+Mauritania,387.5,453.8,None,Lowest,Relative,None
+Mauritius,101.6,157.7,None,Upper-middle,None,Relative
+Mexico,127.2,35.8,Relative,Upper-middle,Relative,Absolute
+Mongolia,906.6,263.7,Relative,Upper-middle,Absolute,None
+Morocco,183.3,189.3,None,Lower-middle,None,Relative
+Mozambique,42.7,680.4,None,Lowest,GDP fell,None
+Myanmar,519.7,622.8,None,Lower-middle,None,None
+Nepal,252.1,1535.1,None,Lowest,None,None
+Netherlands,98.9,-20.1,Absolute,Highest,Relative,Absolute
+New Zealand,158.5,26.1,Relative,Highest,Relative,Absolute
+Nicaragua,264.6,133.0,Relative,Lower-middle,None,Relative
+Niger,239.3,423.7,None,Lowest,Relative,None
+Nigeria,524.6,218.7,Relative,Lower-middle,Relative,Relative
+North Korea,-15.2,-46.6,GDP fell,Lowest,GDP fell,GDP fell
+North Macedonia,74.1,-23.6,Absolute,Upper-middle,Absolute,Absolute
+Norway,250.4,19.7,Relative,Highest,Relative,Absolute
+Oman,722.7,544.4,Relative,Highest,Relative,None
+Pakistan,308.8,223.7,Relative,Lower-middle,Relative,Relative
+Panama,353.6,189.7,Relative,Upper-middle,None,Relative
+Paraguay,182.0,240.7,None,Lower-middle,None,None
+Peru,199.9,172.4,Relative,Lower-middle,Relative,None
+Philippines,314.7,221.6,Relative,Lower-middle,Relative,Relative
+Poland,287.9,-14.9,Absolute,Highest,Absolute,Absolute
+Portugal,56.8,-14.2,Absolute,Upper-middle,Relative,Absolute
+Qatar,6013.4,466.5,Relative,Highest,Relative,Relative
+Romania,323.4,-50.2,Absolute,Upper-middle,Absolute,Absolute
+Russia,115.4,-27.9,Absolute,Upper-middle,Absolute,Relative
+Rwanda,178.1,242.4,None,Lowest,Relative,None
+Saudi Arabia,527.2,187.0,Relative,Highest,Relative,Relative
+Senegal,204.3,305.0,None,Lowest,None,None
+Sierra Leone,77.4,207.8,None,Lowest,GDP fell,None
+Singapore,489.8,7.8,Relative,Highest,Absolute,Relative
+Slovakia,156.5,-40.2,Absolute,Highest,Absolute,Absolute
+Slovenia,96.6,-10.0,Absolute,Highest,Relative,Absolute
+South Africa,196.3,38.6,Relative,Lower-middle,Relative,Absolute
+South Korea,221.8,120.4,Relative,Highest,Relative,Relative
+Spain,97.2,-5.8,Absolute,Highest,Relative,Absolute
+Sri Lanka,278.8,360.5,None,Lower-middle,None,Relative
+Sweden,100.7,-35.4,Absolute,Highest,Absolute,Absolute
+Switzerland,130.0,-24.3,Absolute,Highest,Absolute,Absolute
+Syria,-55.7,-21.4,GDP fell,Lowest,None,GDP fell
+Taiwan,248.0,107.4,Relative,Highest,Relative,Relative
+Tanzania,722.0,714.9,Relative,Lowest,Relative,None
+Thailand,150.0,182.7,None,Upper-middle,None,Relative
+Togo,184.1,165.2,Relative,Lowest,None,Relative
+Trinidad and Tobago,107.7,105.4,Relative,Upper-middle,None,GDP fell
+Tunisia,171.7,93.0,Relative,Lower-middle,Relative,Relative
+Turkey,339.2,172.8,Relative,Upper-middle,Relative,Relative
+Turkmenistan,381.1,167.9,Relative,Upper-middle,Relative,Relative
+Uganda,478.4,664.6,None,Lowest,Relative,None
+Ukraine,-14.3,-70.9,GDP fell,Lower-middle,GDP fell,GDP fell
+United Kingdom,66.4,-45.7,Absolute,Highest,Absolute,Absolute
+United States,102.0,-4.0,Absolute,Highest,Relative,Absolute
+Uruguay,96.6,59.6,Relative,Upper-middle,Relative,Relative
+Uzbekistan,181.4,10.7,Relative,Lower-middle,None,Absolute
+Venezuela,-49.2,-16.4,GDP fell,Lower-middle,None,GDP fell
+Vietnam,571.1,1458.2,None,Lower-middle,None,None
+Yemen,27.4,10.8,Relative,Lowest,None,GDP fell
+Zambia,522.0,319.7,Relative,Lowest,Absolute,None
+Zimbabwe,12.0,-35.2,Absolute,Lowest,GDP fell,Relative

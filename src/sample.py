@@ -51,3 +51,22 @@ def classify_decoupling(gdp_start, gdp_end, co2_start, co2_end) -> pd.Series:
     labels[(gdp_growth > 0) & (co2_growth < 0)] = "Absolute"
     labels[gdp_growth <= 0] = "GDP fell"
     return labels
+
+
+def classify_period(df: pd.DataFrame, start: int, end: int, window: int = AVG_WINDOW) -> pd.DataFrame:
+    """
+    Decoupling for any sub-period, using averaged start and end points.
+
+    For example classify_period(df, 1990, 2005) compares the average of
+    1990-1992 with the average of 2003-2005. Returns GDP growth, CO2
+    growth (both as fractions) and the decoupling label per country.
+    """
+    first = df[df["year"].between(start, start + window - 1)].groupby("country")[["gdp", "co2"]].mean()
+    last = df[df["year"].between(end - window + 1, end)].groupby("country")[["gdp", "co2"]].mean()
+
+    out = pd.DataFrame({
+        "gdp_growth": last["gdp"] / first["gdp"] - 1,
+        "co2_growth": last["co2"] / first["co2"] - 1,
+    })
+    out["decoupling"] = classify_decoupling(first["gdp"], last["gdp"], first["co2"], last["co2"])
+    return out
