@@ -183,4 +183,4 @@ Our World in Data, [CO2 and Greenhouse Gas Emissions](https://github.com/owid/co
 
 ## Author
 
-**Kenneth Ehete**, MSc Data Science, University of Essex
+**Kenneth Ehete**
