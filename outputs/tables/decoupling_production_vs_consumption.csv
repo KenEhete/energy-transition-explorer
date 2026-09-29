@@ -1,0 +1,110 @@
+country,production,consumption,production_change_%,consumption_change_%,income_group
+Albania,Relative,Relative,17.6,36.2,Lower-middle
+Argentina,Relative,Relative,53.3,41.9,Upper-middle
+Australia,Relative,Relative,39.1,49.4,Highest
+Austria,Relative,Absolute,0.6,-9.3,Highest
+Azerbaijan,Absolute,Relative,-26.6,65.5,Lower-middle
+Bahrain,Relative,Relative,235.7,128.0,Highest
+Bangladesh,Relative,None,570.2,952.1,Lowest
+Belarus,Absolute,Relative,-42.2,13.0,Upper-middle
+Belgium,Absolute,Relative,-24.9,61.4,Highest
+Benin,None,None,832.6,629.8,Lowest
+Bolivia,Relative,Relative,101.5,149.4,Lowest
+Botswana,Relative,Relative,149.9,395.4,Lower-middle
+Brazil,Relative,Relative,109.0,88.0,Lower-middle
+Bulgaria,Absolute,Absolute,-35.6,-20.7,Upper-middle
+Burkina Faso,None,None,890.8,517.4,Lowest
+Cambodia,None,None,1501.0,1751.9,Lowest
+Cameroon,None,Relative,266.2,197.3,Lowest
+Canada,Relative,Relative,17.4,3.2,Highest
+Chile,Relative,Relative,160.5,172.9,Upper-middle
+China,Relative,Relative,332.6,305.4,Upper-middle
+Colombia,Relative,Relative,63.3,75.6,Lower-middle
+Costa Rica,Relative,Relative,126.0,163.6,Lower-middle
+Cote d'Ivoire,Relative,Relative,203.0,196.7,Lowest
+Croatia,Absolute,Relative,-7.8,34.1,Upper-middle
+Cyprus,Relative,Relative,36.8,49.0,Upper-middle
+Czechia,Absolute,Absolute,-38.3,-24.8,Upper-middle
+Denmark,Absolute,Absolute,-50.5,-20.3,Highest
+Dominican Republic,Relative,Relative,200.8,450.9,Lower-middle
+Ecuador,Relative,None,106.1,168.9,Lower-middle
+Egypt,Relative,Relative,239.5,243.7,Lower-middle
+El Salvador,Relative,Relative,135.4,130.2,Lower-middle
+Estonia,Absolute,Absolute,-66.9,-50.2,Upper-middle
+Ethiopia,Relative,None,481.0,630.1,Lowest
+Finland,Absolute,Absolute,-32.8,-42.0,Highest
+France,Absolute,Absolute,-27.7,-16.0,Highest
+Germany,Absolute,Absolute,-34.5,-31.6,Highest
+Ghana,None,None,467.3,461.8,Lowest
+Greece,Absolute,Absolute,-32.2,-27.6,Upper-middle
+Guatemala,None,None,268.7,409.2,Lower-middle
+Guinea,Relative,None,322.4,368.1,Lowest
+Honduras,None,None,318.4,356.2,Lowest
+Hong Kong,Relative,Relative,10.6,100.1,Highest
+Hungary,Absolute,Absolute,-31.5,-27.6,Upper-middle
+India,Relative,Relative,328.9,262.1,Lower-middle
+Indonesia,Relative,Relative,280.7,298.0,Lower-middle
+Iran,Relative,Relative,246.1,205.9,Upper-middle
+Ireland,Relative,Relative,9.1,9.4,Highest
+Israel,Relative,Relative,58.3,56.6,Highest
+Italy,Absolute,Absolute,-25.5,-24.2,Highest
+Jamaica,Absolute,Absolute,-3.9,-5.9,Lowest
+Japan,Absolute,Absolute,-10.6,-15.1,Highest
+Jordan,Relative,Relative,96.0,76.3,Lower-middle
+Kazakhstan,Relative,Relative,5.2,16.1,Upper-middle
+Kenya,Relative,None,279.7,405.2,Lowest
+Kuwait,Absolute,Relative,-47.6,263.2,Highest
+Laos,None,None,3694.2,1183.7,Lower-middle
+Latvia,Absolute,Absolute,-59.8,-26.5,Upper-middle
+Lithuania,Absolute,Absolute,-57.6,-53.4,Upper-middle
+Madagascar,None,None,312.0,395.2,Lowest
+Malawi,Relative,None,131.5,313.6,Lowest
+Malaysia,Relative,Relative,323.5,241.9,Upper-middle
+Mauritius,None,None,157.7,246.2,Upper-middle
+Mexico,Relative,Relative,35.8,56.8,Lower-middle
+Mongolia,Relative,Relative,263.7,301.7,Lower-middle
+Morocco,None,Relative,189.3,127.9,Lower-middle
+Mozambique,None,None,680.4,764.2,Lowest
+Nepal,None,None,1535.1,2749.8,Lowest
+Netherlands,Absolute,Absolute,-20.1,-13.7,Highest
+New Zealand,Relative,Relative,26.1,53.7,Highest
+Nicaragua,Relative,Relative,133.0,162.3,Lowest
+Nigeria,Relative,Relative,218.7,266.9,Lowest
+Oman,Relative,Relative,544.4,519.3,Highest
+Pakistan,Relative,Relative,223.7,261.1,Lowest
+Paraguay,None,None,240.7,241.1,Lower-middle
+Peru,Relative,None,172.4,203.2,Lower-middle
+Philippines,Relative,Relative,221.6,253.6,Lower-middle
+Poland,Absolute,Absolute,-14.9,-11.0,Upper-middle
+Portugal,Absolute,Absolute,-14.2,-11.0,Upper-middle
+Qatar,Relative,Relative,466.5,377.8,Highest
+Romania,Absolute,Absolute,-50.2,-38.0,Upper-middle
+Russia,Absolute,Absolute,-27.9,-21.5,Upper-middle
+Rwanda,None,None,242.4,393.3,Lowest
+Saudi Arabia,Relative,Relative,187.0,197.9,Highest
+Senegal,None,None,305.0,404.7,Lowest
+Singapore,Relative,Relative,7.8,164.6,Highest
+Slovakia,Absolute,Absolute,-40.2,-37.4,Upper-middle
+Slovenia,Absolute,Absolute,-10.0,-7.3,Upper-middle
+South Africa,Relative,Relative,38.6,4.4,Lower-middle
+South Korea,Relative,Relative,120.4,92.0,Highest
+Spain,Absolute,Absolute,-5.8,-5.3,Upper-middle
+Sri Lanka,None,None,360.5,1110.6,Lower-middle
+Sweden,Absolute,Absolute,-35.4,-42.1,Highest
+Switzerland,Absolute,Relative,-24.3,31.5,Highest
+Taiwan,Relative,Relative,107.4,225.9,Highest
+Tanzania,Relative,Relative,714.9,687.0,Lowest
+Thailand,None,Relative,182.7,123.1,Lower-middle
+Togo,Relative,None,165.2,746.7,Lowest
+Trinidad and Tobago,Relative,Relative,105.4,83.1,Upper-middle
+Tunisia,Relative,Relative,93.0,110.1,Lower-middle
+Turkey,Relative,Relative,172.8,97.5,Upper-middle
+Uganda,None,None,664.6,519.8,Lowest
+Ukraine,GDP fell,GDP fell,-70.9,-60.4,Lower-middle
+United Kingdom,Absolute,Absolute,-45.7,-27.1,Highest
+United States,Absolute,Relative,-4.0,6.2,Highest
+Uruguay,Relative,Relative,59.6,88.2,Upper-middle
+Venezuela,GDP fell,GDP fell,-16.4,-7.8,Lowest
+Vietnam,None,None,1458.2,920.3,Lower-middle
+Zambia,Relative,Relative,319.7,479.6,Lowest
+Zimbabwe,Absolute,Absolute,-35.2,-6.5,Lowest
