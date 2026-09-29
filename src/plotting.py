@@ -61,3 +61,11 @@ def set_style() -> None:
         "legend.frameon": False,
         "lines.linewidth": 2,
     })
+
+# Kaya factors: warm colours push emissions up, cool colours pull them down
+KAYA_COLOURS = {
+    "Population": YELLOW,
+    "Affluence": ORANGE,
+    "Energy intensity": BLUE,
+    "Carbon intensity": AQUA,
+}
